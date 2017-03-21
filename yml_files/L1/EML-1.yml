@@ -1,0 +1,14 @@
+..short name: Planet Mass Function
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 1
+links: []
+normative: true
+ref: ''
+reviewed: 5c311f74275b52595a74b1d1ae1d8772
+text: "WFIRST shall measure the mass function of exoplanets with masses > 1 \tMEarth\
+  \ and orbital semi-major axes >=1 AU to better than 10% (TBV) per decade in mass.\n"

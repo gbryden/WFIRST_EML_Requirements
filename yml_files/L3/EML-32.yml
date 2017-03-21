@@ -1,0 +1,15 @@
+..short name: Moment curve time
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 3
+links:
+- EML-100: 8f6db214037273e989136db9d76c26a0
+normative: true
+ref: ''
+reviewed: d3076740d581c9cc9f2323d529772490
+text: |
+  Calibrated moment curves will be provided on a daily time scale.

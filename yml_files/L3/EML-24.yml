@@ -1,0 +1,15 @@
+..short name: Odd pixel downloads
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 3
+links:
+- EML-9: 76e49fde708892078ca1eae57bd0a2c7
+normative: true
+ref: ''
+reviewed: 32ad6f91e13d591f22211c37aa61bf62
+text: |2
+   Every pixel where the up-the-ramp (UTR) sampling fails by 3-sigma will have every read downloaded (including those due to saturated pixels, cosmic ray hits, and all other sources of UTR failure; we estimate this to be roughly 2% of all images).

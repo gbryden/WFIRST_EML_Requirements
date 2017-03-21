@@ -1,0 +1,15 @@
+..short name: Injection test frequency
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 3
+links:
+- EML-9: 76e49fde708892078ca1eae57bd0a2c7
+normative: true
+ref: ''
+reviewed: 3d37ee605be314e79e52afb38423679d
+text: |
+  Results of injection and recovery tests will be provided every season.

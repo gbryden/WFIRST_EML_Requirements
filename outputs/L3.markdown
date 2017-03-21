@@ -1,0 +1,116 @@
+3 EML-23 {#EML-23}
+========
+
+All pixels will have 2-3 samples per exposure downloaded (3-4 if there
+is an additional ground station, these will be the 10th (TBV) and 20th
+(TBV) read of each exposure.
+
+*Parent links:* [EML-9](L2.html#EML-9)
+
+3 EML-24 {#EML-24}
+========
+
+Every pixel where the up-the-ramp (UTR) sampling fails by 3-sigma will
+have every read downloaded (including those due to saturated pixels,
+cosmic ray hits, and all other sources of UTR failure; we estimate this
+to be roughly 2% of all images).
+
+*Parent links:* [EML-9](L2.html#EML-9)
+
+3 EML-25 {#EML-25}
+========
+
+Every read from every pixel of every exposure will be downloaded for 1%
+(TBV) of all exposures of all fields. (Alternatively, 1% of the pixels
+of each exposure will have every read downloaded.)
+
+*Parent links:* [EML-9](L2.html#EML-9)
+
+3 EML-26 {#EML-26}
+========
+
+The data will be downloaded from the spacecraft to GSN at most every 12
+hours.
+
+*Parent links:* [EML-100](L2.html#EML-100)
+
+3 EML-27 {#EML-27}
+========
+
+Data from GSN will sent to the SSOC within &lt;2 hours 80% of the time
+during second half of the spring and first half of the fall microlensing
+seasons.
+
+*Parent links:* [EML-100](L2.html#EML-100)
+
+3 EML-28 {#EML-28}
+========
+
+Observations of all fields will be taken in all filters at least once
+per week.
+
+*Parent links:* [EML-17](L2.html#EML-17)
+
+3 EML-29 {#EML-29}
+========
+
+Stepped observations of a crowded field (but less crowded than the
+microlensing fields) with offsets that would sample the scale of the
+astrometric detector artifacts. These fields should have stars with good
+Gaia parallaxes to set the absolute scales.
+
+*Parent links:* [EML-19](L2.html#EML-19)
+
+3 EML-30 {#EML-30}
+========
+
+Uncalibrated data and light curves will be provided for alerts on time
+scale of &lt;20 hours, preferably &lt;14 hours.
+
+*Parent links:* [EML-100](L2.html#EML-100)
+
+3 EML-31 {#EML-31}
+========
+
+The ISOC shall produce alerts and make them available to the community
+within 2 hours of the data arriving at the SSOC.
+
+*Parent links:* [EML-100](L2.html#EML-100)
+
+3 EML-32 {#EML-32}
+========
+
+Calibrated moment curves will be provided on a daily time scale.
+
+*Parent links:* [EML-100](L2.html#EML-100)
+
+3 EML-33 {#EML-33}
+========
+
+Derived calibration products will be provided on a weekly time scale.
+
+*Parent links:* [EML-9](L2.html#EML-9)
+
+3 EML-34 {#EML-34}
+========
+
+Supersampled stacked images will be provided every season.
+
+*Parent links:* [EML-10](L2.html#EML-10)
+
+3 EML-35 {#EML-35}
+========
+
+Results of injection and recovery tests will be provided every season.
+
+*Parent links:* [EML-9](L2.html#EML-9)
+
+3 EML-36 {#EML-36}
+========
+
+The final data products will include the calibrated moment curves,
+relative proper motions and parallaxes, flagged astrometric binaries,
+and detection efficiencies for microlensing events for each light curve
+and planet sensitivities for every microlensing event.
+
+*Parent links:* [EML-10](L2.html#EML-10)

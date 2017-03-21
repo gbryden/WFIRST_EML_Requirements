@@ -1,0 +1,154 @@
+2 EML-7 {#EML-7}
+=======
+
+Observe for or at least 2.9x432 square degree-days, with relative
+photometric measurements in the primary microlensing filter that have a
+statistical S/N of &gt;=100 per exposure for a HAB=21.6 star.
+
+*Parent links:* [EML-1](L1.html#EML-1), [EML-2](L1.html#EML-2),
+[EML-4](L1.html#EML-4), [EML-6](L1.html#EML-6)
+
+2 EML-8 {#EML-8}
+=======
+
+Microlensing seasons must occupy no more than 8/12 of the available
+seasons.
+
+*Parent links:* [EML-1](L1.html#EML-1), [EML-2](L1.html#EML-2),
+[EML-4](L1.html#EML-4), [EML-6](L1.html#EML-6)
+
+2 EML-9 {#EML-9}
+=======
+
+Relative photometric measurements in the primary microlensing filter
+will have a systematic precision of 0.1% over a season and 0.01% over
+daily timescales.
+
+*Parent links:* [EML-1](L1.html#EML-1), [EML-2](L1.html#EML-2),
+[EML-4](L1.html#EML-4), [EML-6](L1.html#EML-6)
+
+*Child links:* [EML-23](L3.html#EML-23), [EML-24](L3.html#EML-24),
+[EML-25](L3.html#EML-25), [EML-33](L3.html#EML-33),
+[EML-35](L3.html#EML-35)
+
+2 EML-10 {#EML-10}
+========
+
+Relative photometric measurements from separate seasons are tied to
+better than 0.1%.
+
+*Parent links:* [EML-1](L1.html#EML-1), [EML-2](L1.html#EML-2),
+[EML-4](L1.html#EML-4), [EML-6](L1.html#EML-6)
+
+*Child links:* [EML-34](L3.html#EML-34), [EML-36](L3.html#EML-36)
+
+2 EML-11 {#EML-11}
+========
+
+Absolute photometry is calibrated to better than 1%.
+
+*Parent links:* [EML-3](L1.html#EML-3), [EML-5](L1.html#EML-5)
+
+2 EML-12 {#EML-12}
+========
+
+The light curves shall be sampled with a wide filter spanning 1 to 2 um.
+
+*Parent links:* [EML-1](L1.html#EML-1), [EML-2](L1.html#EML-2),
+[EML-4](L1.html#EML-4), [EML-6](L1.html#EML-6)
+
+2 EML-13 {#EML-13}
+========
+
+The photometric sampling cadence in the wide filter shall be &lt;=15
+minutes.
+
+*Parent links:* [EML-1](L1.html#EML-1), [EML-2](L1.html#EML-2),
+[EML-4](L1.html#EML-4), [EML-6](L1.html#EML-6)
+
+2 EML-14 {#EML-14}
+========
+
+The EE50 radius of the PSF in the wide filter shall be &lt;0.15."
+
+*Parent links:* [EML-1](L1.html#EML-1), [EML-2](L1.html#EML-2),
+[EML-4](L1.html#EML-4), [EML-6](L1.html#EML-6)
+
+2 EML-15 {#EML-15}
+========
+
+Each observing season shall last at least 60 days and at least 36 days
+of each season should be on the opposition side of quadrature.
+
+*Parent links:* [EML-1](L1.html#EML-1), [EML-2](L1.html#EML-2),
+[EML-4](L1.html#EML-4), [EML-6](L1.html#EML-6)
+
+2 EML-16 {#EML-16}
+========
+
+The seasons will be monitored with a duty cycle of &gt;=90%.
+
+*Parent links:* [EML-1](L1.html#EML-1), [EML-2](L1.html#EML-2),
+[EML-4](L1.html#EML-4), [EML-6](L1.html#EML-6)
+
+2 EML-17 {#EML-17}
+========
+
+Monitor fields with two filters in addition to wide filter: both R\~4
+filters, one with bandpass shortward of 1 um and one with a bandpass
+longward of 1 um, each with a cadence of 1 exposure every 12 hours.
+
+*Parent links:* [EML-3](L1.html#EML-3), [EML-5](L1.html#EML-5)
+
+*Child links:* [EML-28](L3.html#EML-28)
+
+2 EML-18 {#EML-18}
+========
+
+The first and last observing seasons shall be separated by &gt;4 years.
+
+*Parent links:* [EML-3](L1.html#EML-3), [EML-5](L1.html#EML-5)
+
+2 EML-19 {#EML-19}
+========
+
+The relative astrometric measurements shall have a statistical precision
+of 1 mas per measurement for a star of HAB=21.6.
+
+*Parent links:* [EML-3](L1.html#EML-3), [EML-5](L1.html#EML-5)
+
+*Child links:* [EML-29](L3.html#EML-29)
+
+2 EML-20 {#EML-20}
+========
+
+The relative astrometric measurements will have a systematic precision
+of 10 uas over the full microlensing survey (stretch goal of 3 uas).
+
+*Parent links:* [EML-3](L1.html#EML-3), [EML-5](L1.html#EML-5)
+
+2 EML-21 {#EML-21}
+========
+
+Measure the FWHM in both axes of a HAB=21.6 star to 1% per day.
+
+*Parent links:* [EML-3](L1.html#EML-3), [EML-5](L1.html#EML-5)
+
+2 EML-22 {#EML-22}
+========
+
+Measure the FWHM in both axes of a HAB=21.6 star to XX% over the entire
+duration of the microlensing survey.
+
+*Parent links:* [EML-3](L1.html#EML-3), [EML-5](L1.html#EML-5)
+
+2 EML-100 {#EML-100}
+=========
+
+WFIRST shall provide alerts on a XX hour timescale.
+
+*Parent links:* [EML-5](L1.html#EML-5)
+
+*Child links:* [EML-26](L3.html#EML-26), [EML-27](L3.html#EML-27),
+[EML-30](L3.html#EML-30), [EML-31](L3.html#EML-31),
+[EML-32](L3.html#EML-32)

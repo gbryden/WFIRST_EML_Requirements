@@ -1,0 +1,7 @@
+uid,..short name,text,links,.Document,.Verification,.Rationale,.Action Items,level
+EML-1,Planet Mass Function,"WFIRST shall measure the mass function of exoplanets with masses > 1 	MEarth and orbital semi-major axes >=1 AU to better than 10% (TBV) per decade in mass.",,,,,,1
+EML-2,Mars Frequency,"WFIRST shall measure the frequency of Mars-mass objects to 20% (TBV).",,,,,,2
+EML-3,Planet Masses,"WFIRST shall determine the masses of, and distances to, host stars of 50% (TBV) of the detected planets with a precision of 20% (TBV).",,,,,,3
+EML-4,Free-floating Planets,"WFIRST shall measure the frequency of free floating planetary-mass objects in the Galaxy from Mars to 10 Jupiter masses in mass. If there is one MEarth free-floating planet per star, measure this frequency to ~20% (TBV).",,,,,,4
+EML-5,Free-floating Masses,"WFIRST shall measure the masses of 50% (TBV) of free-floating detected planetary-mass objects to a precision of 20% (TBV) down to a mass of Mearth.",,,,,,5
+EML-6,eta_Earth,"WFIRST shall estimate eta_Earth to a precision of 20% (TBV) via extrapolation from larger and longer-period planets.",,,,,,6

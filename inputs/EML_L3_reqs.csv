@@ -1,0 +1,15 @@
+uid,..short name,text,links,.Document,.Verification,.Rationale,.Action Items,level
+EML-23,Normal pixel downloads,"All pixels will have 2-3 samples per exposure downloaded (3-4 if there is an additional ground station, these will be the 10th (TBV) and 20th (TBV) read of each exposure.","EML-9",,,,,3
+EML-24,Odd pixel downloads," Every pixel where the up-the-ramp (UTR) sampling fails by 3-sigma will have every read downloaded (including those due to saturated pixels, cosmic ray hits, and all other sources of UTR failure; we estimate this to be roughly 2% of all images).","EML-9",,,,,3
+EML-25,More pixel download stuff," Every read from every pixel of every exposure will be downloaded for 1% (TBV) of all exposures of all fields.   (Alternatively, 1% of the pixels of each exposure will have every read downloaded.)","EML-9",,,,,3
+EML-26,Download frequency,"The data will be downloaded from the spacecraft to GSN at most every 12 hours.","EML-100",,,,,3
+EML-27,Data Processing Time,"Data from GSN will sent to the SSOC within <2 hours 80% of the time during second half of the spring and first half of the fall microlensing seasons.","EML-100",,,,,3
+EML-28,Color frequency,"Observations of all fields will be taken in all filters at least once per week.","EML-17",,,,,3
+EML-29,Stepped observations,"Stepped observations of a crowded field (but less crowded than the microlensing fields) with offsets that would sample the scale of the astrometric detector artifacts.  These fields should have stars with good Gaia parallaxes to set the absolute scales.","EML-19",,,,,3
+EML-30,Data delivery time,"Uncalibrated data and light curves will be provided for alerts on time scale of <20 hours, preferably <14 hours.","EML-100",,,,,3
+EML-31,Alert time,"The ISOC shall produce alerts and make them available to the community within 2 hours of the data arriving at the SSOC.","EML-100",,,,,3
+EML-32,Moment curve time,"Calibrated moment curves will be provided on a daily time scale.","EML-100",,,,,3
+EML-33,Calibration frequency,"Derived calibration products will be provided on a weekly time scale.","EML-9",,,,,3
+EML-34,Stacked image frequency,"Supersampled stacked images will be provided every season.","EML-10",,,,,3
+EML-35,Injection test frequency,"Results of injection and recovery tests will be provided every season.","EML-9",,,,,3
+EML-36,Final Data Products,"The final data products will include the calibrated moment curves, relative proper motions and parallaxes, flagged astrometric binaries, and detection efficiencies for microlensing events for each light curve and planet sensitivities for every microlensing event.","EML-10",,,,,3

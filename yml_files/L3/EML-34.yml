@@ -1,0 +1,15 @@
+..short name: Stacked image frequency
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 3
+links:
+- EML-10: 64bc8cbfd64a6d5932a79f59b5590fa5
+normative: true
+ref: ''
+reviewed: b2104b0cd117901ef47995708ad9c183
+text: |
+  Supersampled stacked images will be provided every season.

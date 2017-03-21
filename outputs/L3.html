@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+
+body{
+    margin: 0 auto;
+    font-family: Georgia, Palatino, serif;
+    color: #444444;
+    line-height: 1;
+    max-width: 960px;
+    padding: 30px;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #111111;
+    font-weight: 400;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin-bottom: 24px;
+    padding: 0;
+}
+h1 {
+    font-size: 48px;
+}
+h2 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 32px;
+}
+h4, h5, h6 {
+    font-size: 28px;
+}
+a {
+    color: #0099ff;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+a:hover {
+    text-decoration: none;
+    color: #ff6600;
+}
+a:visited {
+    color: purple;
+}
+ul, ol {
+    padding: 0;
+    margin-left: 48px;
+}
+li {
+    line-height: 24px;
+}
+li ul, li ul {
+    margin-left: 24px;
+}
+p, ul, ol {
+    font-size: 16px;
+    line-height: 24px;
+    max-width: 540px;
+}
+pre {
+    padding: 0px 24px;
+    max-width: 800px;
+    white-space: pre-wrap;
+}
+code {
+    font-family: Consolas, Monaco, Andale Mono, monospace;
+    line-height: 1.5;
+    font-size: 13px;
+}
+aside {
+    display: block;
+    float: right;
+    width: 390px;
+}
+blockquote {
+    border-left:.5em solid #eee;
+    padding: 0 2em;
+    margin-left:0;
+    max-width: 476px;
+}
+blockquote  cite {
+    font-size:14px;
+    line-height:20px;
+    color:#bfbfbf;
+}
+blockquote cite:before {
+    content: '\2014 \00A0';
+}
+
+blockquote p {
+    color: #666;
+    max-width: 460px;
+}
+
+hr {
+    width: 540px;
+    text-align: left;
+    margin: 0 auto 0 0;
+    color: #999;
+}
+
+table, th, td {
+    border:1px solid #DDDDDD;
+    border-collapse:collapse;
+    font-weight:normal
+}
+
+th {
+    background-color: #E6E6E6;
+}
+
+tr.alt td {
+    background-color: #F8F8F8;
+}
+
+:target {
+    background-color: #F5F9FC;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+}
+
+</style>
+</head>
+<body>
+<h1 id="EML-23">3 EML-23</h1>
+<p>All pixels will have 2-3 samples per exposure downloaded (3-4 if there is an additional ground station, these will be the 10th (TBV) and 20th (TBV) read of each exposure.</p>
+<p><em>Parent links:</em> <a href="L2.html#EML-9">EML-9</a></p>
+<h1 id="EML-24">3 EML-24</h1>
+<p>Every pixel where the up-the-ramp (UTR) sampling fails by 3-sigma will have every read downloaded (including those due to saturated pixels, cosmic ray hits, and all other sources of UTR failure; we estimate this to be roughly 2% of all images).</p>
+<p><em>Parent links:</em> <a href="L2.html#EML-9">EML-9</a></p>
+<h1 id="EML-25">3 EML-25</h1>
+<p>Every read from every pixel of every exposure will be downloaded for 1% (TBV) of all exposures of all fields.   (Alternatively, 1% of the pixels of each exposure will have every read downloaded.)</p>
+<p><em>Parent links:</em> <a href="L2.html#EML-9">EML-9</a></p>
+<h1 id="EML-26">3 EML-26</h1>
+<p>The data will be downloaded from the spacecraft to GSN at most every 12 hours.</p>
+<p><em>Parent links:</em> <a href="L2.html#EML-100">EML-100</a></p>
+<h1 id="EML-27">3 EML-27</h1>
+<p>Data from GSN will sent to the SSOC within &lt;2 hours 80% of the time during second half of the spring and first half of the fall microlensing seasons.</p>
+<p><em>Parent links:</em> <a href="L2.html#EML-100">EML-100</a></p>
+<h1 id="EML-28">3 EML-28</h1>
+<p>Observations of all fields will be taken in all filters at least once per week.</p>
+<p><em>Parent links:</em> <a href="L2.html#EML-17">EML-17</a></p>
+<h1 id="EML-29">3 EML-29</h1>
+<p>Stepped observations of a crowded field (but less crowded than the microlensing fields) with offsets that would sample the scale of the astrometric detector artifacts.  These fields should have stars with good Gaia parallaxes to set the absolute scales.</p>
+<p><em>Parent links:</em> <a href="L2.html#EML-19">EML-19</a></p>
+<h1 id="EML-30">3 EML-30</h1>
+<p>Uncalibrated data and light curves will be provided for alerts on time scale of &lt;20 hours, preferably &lt;14 hours.</p>
+<p><em>Parent links:</em> <a href="L2.html#EML-100">EML-100</a></p>
+<h1 id="EML-31">3 EML-31</h1>
+<p>The ISOC shall produce alerts and make them available to the community within 2 hours of the data arriving at the SSOC.</p>
+<p><em>Parent links:</em> <a href="L2.html#EML-100">EML-100</a></p>
+<h1 id="EML-32">3 EML-32</h1>
+<p>Calibrated moment curves will be provided on a daily time scale.</p>
+<p><em>Parent links:</em> <a href="L2.html#EML-100">EML-100</a></p>
+<h1 id="EML-33">3 EML-33</h1>
+<p>Derived calibration products will be provided on a weekly time scale.</p>
+<p><em>Parent links:</em> <a href="L2.html#EML-9">EML-9</a></p>
+<h1 id="EML-34">3 EML-34</h1>
+<p>Supersampled stacked images will be provided every season.</p>
+<p><em>Parent links:</em> <a href="L2.html#EML-10">EML-10</a></p>
+<h1 id="EML-35">3 EML-35</h1>
+<p>Results of injection and recovery tests will be provided every season.</p>
+<p><em>Parent links:</em> <a href="L2.html#EML-9">EML-9</a></p>
+<h1 id="EML-36">3 EML-36</h1>
+<p>The final data products will include the calibrated moment curves, relative proper motions and parallaxes, flagged astrometric binaries, and detection efficiencies for microlensing events for each light curve and planet sensitivities for every microlensing event.</p>
+<p><em>Parent links:</em> <a href="L2.html#EML-10">EML-10</a></p>
+</body>
+</html>

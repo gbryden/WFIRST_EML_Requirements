@@ -1,0 +1,13 @@
+TXTDIR=outputs
+HTMLS=$(wildcard outputs/*.html)
+MDS=$(patsubst %.html,%.docx, $(HTMLS))
+
+.PHONY : all
+
+all : $(MDS)
+
+#$(TXTDIR) :
+#	mkdir $(TXTDIR)
+
+$(TXTDIR)/%.docx : $(TXTDIR)/%.html $(TXTDIR)
+	pandoc -f html -t docx -s $< -o $@

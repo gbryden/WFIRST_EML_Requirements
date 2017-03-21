@@ -1,0 +1,15 @@
+..short name: Alert time
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 3
+links:
+- EML-100: 8f6db214037273e989136db9d76c26a0
+normative: true
+ref: ''
+reviewed: 2e90bcd2977e1e01a71e8f65d3e2d6b7
+text: |
+  The ISOC shall produce alerts and make them available to the community within 2 hours of the data arriving at the SSOC.

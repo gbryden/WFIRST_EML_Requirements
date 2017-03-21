@@ -1,0 +1,16 @@
+..short name: Filters
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 2
+links:
+- EML-3: 980e34deb71c79bb1fc66a0d2d5dcb3e
+- EML-5: a3be0702e2864784334f4f925c1ef170
+normative: true
+ref: ''
+reviewed: 7a899c23c0b3a3c588c828dd9f19d586
+text: |
+  Monitor fields with two filters in addition to wide filter: both R~4 filters, one with bandpass shortward of 1 um and one with a bandpass longward of 1 um, each with a cadence of 1 exposure every 12 hours.

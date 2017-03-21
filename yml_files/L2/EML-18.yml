@@ -1,0 +1,16 @@
+..short name: Astrometry baseline
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 2
+links:
+- EML-3: 980e34deb71c79bb1fc66a0d2d5dcb3e
+- EML-5: a3be0702e2864784334f4f925c1ef170
+normative: true
+ref: ''
+reviewed: cd3eb9a78974c45df026fd1ac16b9393
+text: |
+  The first and last observing seasons shall be separated by >4 years.

@@ -1,0 +1,15 @@
+..short name: Final Data Products
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 3
+links:
+- EML-10: 64bc8cbfd64a6d5932a79f59b5590fa5
+normative: true
+ref: ''
+reviewed: 6fed298c7091e62d9c2a32d782f455f4
+text: |
+  The final data products will include the calibrated moment curves, relative proper motions and parallaxes, flagged astrometric binaries, and detection efficiencies for microlensing events for each light curve and planet sensitivities for every microlensing event.

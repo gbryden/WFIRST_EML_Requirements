@@ -1,0 +1,15 @@
+..short name: Stepped observations
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 3
+links:
+- EML-19: cff444db02033885f5ec365519c2e736
+normative: true
+ref: ''
+reviewed: 904548a038fe2af332c2b4f34de70928
+text: |
+  Stepped observations of a crowded field (but less crowded than the microlensing fields) with offsets that would sample the scale of the astrometric detector artifacts.  These fields should have stars with good Gaia parallaxes to set the absolute scales.

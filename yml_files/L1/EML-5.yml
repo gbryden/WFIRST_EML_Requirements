@@ -1,0 +1,14 @@
+..short name: Free-floating Masses
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 5
+links: []
+normative: true
+ref: ''
+reviewed: a3be0702e2864784334f4f925c1ef170
+text: |
+  WFIRST shall measure the masses of 50% (TBV) of free-floating detected planetary-mass objects to a precision of 20% (TBV) down to a mass of Mearth.

@@ -1,0 +1,16 @@
+..short name: Seasonal astrometric precision
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 2
+links:
+- EML-3: 980e34deb71c79bb1fc66a0d2d5dcb3e
+- EML-5: a3be0702e2864784334f4f925c1ef170
+normative: true
+ref: ''
+reviewed: 38f6d17266567afa30f56389c57ed05f
+text: |
+  The relative astrometric measurements will have a systematic precision of 10 uas over the full microlensing survey (stretch goal of 3 uas).

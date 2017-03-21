@@ -1,0 +1,15 @@
+..short name: Download frequency
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 3
+links:
+- EML-100: 8f6db214037273e989136db9d76c26a0
+normative: true
+ref: ''
+reviewed: 8300cd6971e6691b88ff785efc940a77
+text: |
+  The data will be downloaded from the spacecraft to GSN at most every 12 hours.

@@ -1,0 +1,72 @@
+1 EML-1 {#EML-1}
+=======
+
+WFIRST shall measure the mass function of exoplanets with masses &gt; 1
+MEarth and orbital semi-major axes &gt;=1 AU to better than 10% (TBV)
+per decade in mass.
+
+*Child links:* [EML-7](L2.html#EML-7), [EML-8](L2.html#EML-8),
+[EML-9](L2.html#EML-9), [EML-10](L2.html#EML-10),
+[EML-12](L2.html#EML-12), [EML-13](L2.html#EML-13),
+[EML-14](L2.html#EML-14), [EML-15](L2.html#EML-15),
+[EML-16](L2.html#EML-16)
+
+2 EML-2 {#EML-2}
+=======
+
+WFIRST shall measure the frequency of Mars-mass objects to 20% (TBV).
+
+*Child links:* [EML-7](L2.html#EML-7), [EML-8](L2.html#EML-8),
+[EML-9](L2.html#EML-9), [EML-10](L2.html#EML-10),
+[EML-12](L2.html#EML-12), [EML-13](L2.html#EML-13),
+[EML-14](L2.html#EML-14), [EML-15](L2.html#EML-15),
+[EML-16](L2.html#EML-16)
+
+3 EML-3 {#EML-3}
+=======
+
+WFIRST shall determine the masses of, and distances to, host stars of
+50% (TBV) of the detected planets with a precision of 20% (TBV).
+
+*Child links:* [EML-11](L2.html#EML-11), [EML-17](L2.html#EML-17),
+[EML-18](L2.html#EML-18), [EML-19](L2.html#EML-19),
+[EML-20](L2.html#EML-20), [EML-21](L2.html#EML-21),
+[EML-22](L2.html#EML-22)
+
+4 EML-4 {#EML-4}
+=======
+
+WFIRST shall measure the frequency of free floating planetary-mass
+objects in the Galaxy from Mars to 10 Jupiter masses in mass. If there
+is one MEarth free-floating planet per star, measure this frequency to
+\~20% (TBV).
+
+*Child links:* [EML-7](L2.html#EML-7), [EML-8](L2.html#EML-8),
+[EML-9](L2.html#EML-9), [EML-10](L2.html#EML-10),
+[EML-12](L2.html#EML-12), [EML-13](L2.html#EML-13),
+[EML-14](L2.html#EML-14), [EML-15](L2.html#EML-15),
+[EML-16](L2.html#EML-16)
+
+5 EML-5 {#EML-5}
+=======
+
+WFIRST shall measure the masses of 50% (TBV) of free-floating detected
+planetary-mass objects to a precision of 20% (TBV) down to a mass of
+Mearth.
+
+*Child links:* [EML-11](L2.html#EML-11), [EML-17](L2.html#EML-17),
+[EML-18](L2.html#EML-18), [EML-19](L2.html#EML-19),
+[EML-20](L2.html#EML-20), [EML-21](L2.html#EML-21),
+[EML-22](L2.html#EML-22), [EML-100](L2.html#EML-100)
+
+6 EML-6 {#EML-6}
+=======
+
+WFIRST shall estimate eta\_Earth to a precision of 20% (TBV) via
+extrapolation from larger and longer-period planets.
+
+*Child links:* [EML-7](L2.html#EML-7), [EML-8](L2.html#EML-8),
+[EML-9](L2.html#EML-9), [EML-10](L2.html#EML-10),
+[EML-12](L2.html#EML-12), [EML-13](L2.html#EML-13),
+[EML-14](L2.html#EML-14), [EML-15](L2.html#EML-15),
+[EML-16](L2.html#EML-16)

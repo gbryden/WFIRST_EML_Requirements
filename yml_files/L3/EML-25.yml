@@ -1,0 +1,15 @@
+..short name: More pixel download stuff
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 3
+links:
+- EML-9: 76e49fde708892078ca1eae57bd0a2c7
+normative: true
+ref: ''
+reviewed: 374ec8ff78ed4a96245cbf9e239380bf
+text: |2
+   Every read from every pixel of every exposure will be downloaded for 1% (TBV) of all exposures of all fields.   (Alternatively, 1% of the pixels of each exposure will have every read downloaded.)

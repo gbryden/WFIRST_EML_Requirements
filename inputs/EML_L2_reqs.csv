@@ -1,0 +1,18 @@
+uid,..short name,text,links,.Document,.Verification,.Rationale,.Action Items,level
+EML-100,Alerts,"WFIRST shall provide alerts on a XX hour timescale.","EML-5",,,,,2
+EML-7,Observing time,"Observe for or at least 2.9x432 square degree-days, with relative photometric measurements in the primary microlensing filter that have a statistical S/N of >=100 per exposure for a HAB=21.6 star.","EML-1, EML-2, EML-4, EML-6",,,,,2
+EML-8,Number of Seasons,"Microlensing seasons must occupy no more than 8/12 of the available seasons.","EML-1, EML-2, EML-4, EML-6",,,,,2
+EML-9,Photometric precision,"Relative photometric measurements in the primary microlensing filter will have a systematic precision of 0.1% over a season and 0.01% over daily timescales.","EML-1, EML-2, EML-4, EML-6",,,,,2
+EML-10,Seasonal precision,"Relative photometric measurements from separate seasons are tied to better than 0.1%.","EML-1, EML-2, EML-4, EML-6",,,,,2
+EML-11,Absolute calibration,"Absolute photometry is calibrated to better than 1%.","EML-3, EML-5",,,,,2
+EML-12,Wavelengths/Bandwidth,"The light curves shall be sampled with a wide filter spanning 1 to 2 um.","EML-1, EML-2, EML-4, EML-6",,,,,2
+EML-13,Cadence,"The photometric sampling cadence in the wide filter shall be <=15 minutes.","EML-1, EML-2, EML-4, EML-6",,,,,2
+EML-14,Spatial resolution,"The EE50 radius of the PSF in the wide filter shall be <0.15".","EML-1, EML-2, EML-4, EML-6",,,,,2
+EML-15,Season length,"Each observing season shall last at least 60 days and at least 36 days of each season should be on the opposition side of quadrature.","EML-1, EML-2, EML-4, EML-6",,,,,2
+EML-16,Duty Cycle,"The seasons will be monitored with a duty cycle of >=90%.","EML-1, EML-2, EML-4, EML-6",,,,,2
+EML-17,Filters,"Monitor fields with two filters in addition to wide filter: both R~4 filters, one with bandpass shortward of 1 um and one with a bandpass longward of 1 um, each with a cadence of 1 exposure every 12 hours.","EML-3, EML-5",,,,,2
+EML-18,Astrometry baseline,"The first and last observing seasons shall be separated by >4 years.","EML-3, EML-5",,,,,2
+EML-19,Astrometric precision,"The relative astrometric measurements shall have a statistical precision of 1 mas per measurement for a star of HAB=21.6.","EML-3, EML-5",,,,,2
+EML-20,Seasonal astrometric precision,"The relative astrometric measurements will have a systematic precision of 10 uas over the full microlensing survey (stretch goal of 3 uas).","EML-3, EML-5",,,,,2
+EML-21,FWHM knowledge,"Measure the FWHM in both axes of a HAB=21.6 star to 1% per day.","EML-3, EML-5",,,,,2
+EML-22,Seasonal FWHM knowledge," Measure the FWHM in both axes of a HAB=21.6 star to XX% over the entire duration of the microlensing survey.","EML-3, EML-5",,,,,2

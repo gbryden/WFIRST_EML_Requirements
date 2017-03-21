@@ -1,0 +1,18 @@
+..short name: Seasonal precision
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 2
+links:
+- EML-1: 5c311f74275b52595a74b1d1ae1d8772
+- EML-2: 45c4996008c82463ee824bb001b6ec25
+- EML-4: ced7b46f52fc72c411650754cdcde844
+- EML-6: b0d1223841090d8cf9c5c97285744c0e
+normative: true
+ref: ''
+reviewed: 74dd4a1dcaf4561e71122ac9e995eb93
+text: |
+  Relative photometric measurements from separate seasons are tied to better than 0.1%.

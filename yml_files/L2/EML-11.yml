@@ -1,0 +1,16 @@
+..short name: Absolute calibration
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 2
+links:
+- EML-3: 980e34deb71c79bb1fc66a0d2d5dcb3e
+- EML-5: a3be0702e2864784334f4f925c1ef170
+normative: true
+ref: ''
+reviewed: 772bc67b934fd915085fa3e1aa0c2e4b
+text: |
+  Absolute photometry is calibrated to better than 1%.

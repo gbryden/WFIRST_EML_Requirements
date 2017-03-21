@@ -1,0 +1,15 @@
+..short name: Data Processing Time
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 3
+links:
+- EML-100: 8f6db214037273e989136db9d76c26a0
+normative: true
+ref: ''
+reviewed: 928df764e5009c759e4a6de10d53ded0
+text: |
+  Data from GSN will sent to the SSOC within <2 hours 80% of the time during second half of the spring and first half of the fall microlensing seasons.

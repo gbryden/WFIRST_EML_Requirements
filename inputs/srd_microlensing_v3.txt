@@ -1,0 +1,38 @@
+EML 1: WFIRST shall measure the mass function of exoplanets with masses > 1 MEarth and orbital semi-major axes >=1 AU to better than 10% (TBV) per decade in mass.
+EML 2: WFIRST shall measure the frequency of Mars-mass objects to 20% (TBV).
+EML 3: WFIRST shall determine the masses of, and distances to, host stars of 50% (TBV) of the detected planets with a precision of 20% (TBV).
+EML 4: WFIRST shall measure the frequency of free floating planetary-mass objects in the Galaxy from Mars to 10 Jupiter masses in mass. If there is one MEarth free-floating planet per star, measure this frequency to ~20% (TBV).
+EML 5: WFIRST shall provide alerts that allow for the measurement of the masses of 50% (TBV) of free-floating detected planetary-mass objects to a precision of 20% (TBV) down to a mass of Mearth.
+EML 6: WFIRST shall estimate eta_Earth to a precision of 20% (TBV) via extrapolation from larger and longer-period planets.
+
+EML 7: Observe for or at least 2.9x432 square degree-days, with relative photometric measurements in the primary microlensing filter that have a statistical S/N of >=100 per exposure for a HAB=21.6 star.
+EML 8: Microlensing seasons must occupy no more than 8/12 of the available seasons.
+EML 9: Relative photometric measurements in the primary microlensing filter will have a systematic precision of 0.1% over a season and 0.01% over daily timescales.
+EML 10: Relative photometric measurements from separate seasons are tied to better than 0.1%.
+EML 11: Absolute photometry is calibrated to better than 1%.
+EML 12: The light curves shall be sampled with a wide filter spanning 1 to 2 um.
+EML 13: The photometric sampling cadence in the wide filter shall be <=15 minutes.
+EML 14: The EE50 radius of the PSF in the wide filter shall be <0.15".
+EML 15: Each observing season shall last at least 60 days and at least 36 days of each season should be on the opposition side of quadrature.
+EML 16: The seasons will be monitored with a duty cycle of >=90%.
+EML 17: Monitor fields with a two filters in addition to wide filter: both R~4 filters, one with bandpass shortward of 1 um and one with a bandpass longward of 1 um, each with a cadence of 1 exposure every 12 hours.
+EML 18: The first and last observing seasons shall be separated by >4 years.
+EML 19: The relative astrometric measurements shall have a statistical precision of 1 mas per measurement for a star of HAB=21.6.
+EML 20: The relative astrometric measurements will have a systematic precision of 10 ?as over the full microlensing survey (stretch goal of 3 uas).
+EML 21: Measure the FWHM in both axes of a HAB=21.6 star to 1% per day.
+EML 22:  Measure the FWHM in both axes of a HAB=21.6 star to XX% over the entire duration of the microlensing survey.
+
+EML 23: All pixels will be have 2-3 samples per exposure downloaded (3-4 if there is an additional ground station, these will be the 10th (TBV) and 20th (TBV) read of each exposure
+EML 24:  Every pixel where the up-the-ramp (UTR) sampling fails by 3-sigma will have every read downloaded (including those due to saturated pixels, cosmic ray hits, and all other sources of UTR failure; we estimate this to be roughly 2% of all images)
+EML 25:  Every read from every pixel of every exposure will be downloaded for 1% (TBV) of all exposures of all fields.   (Alternatively, 1% of the pixels of each exposure will have every read downloaded.)
+EML 26: The data will be downloaded from the spacecraft to GSN at most every 12 hours.
+EML 27: Data from GSN will sent to the SSOC within <2 hours 80% of the time during second half of the spring and first half of the fall microlensing seasons.
+EML 28: Observations of all fields will be taken in all filters at least once per week.
+EML 29:  Stepped observations of a crowded field (but less crowded than the microlensing fields) with offsets that would sample the scale of the astrometric detector artifacts.  These fields should have stars with good Gaia parallaxes to set the absolute scales.  
+EML 30: Uncalibrated data and light curves will be provided for alerts on time scale of <20 hours, preferably <14 hours.
+EML 31: The ISOC shall produce alerts and make them available to the community within 2 hours of the data arriving at the SSOC.
+EML 32: Calibrated moment curves will be provided on a daily time scale.
+EML 33: Derived calibration products will be provided on a weekly time scale.
+EML 34: Supersampled stacked images will be provided every season.
+EML 35: Results of injection and recovery tests will be provided every season.
+EML 36: The final data products will include the calibrated moment curves, relative proper motions and parallaxes, flagged astrometric binaries, and detection efficiencies for microlensing events for each light curve and planet sensitivities for every microlensing event. 

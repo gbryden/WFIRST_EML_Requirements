@@ -1,0 +1,16 @@
+..short name: Astrometric precision
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 2
+links:
+- EML-3: 980e34deb71c79bb1fc66a0d2d5dcb3e
+- EML-5: a3be0702e2864784334f4f925c1ef170
+normative: true
+ref: ''
+reviewed: 39c4e8471e5ed9ec2ac44c2942353b0e
+text: |
+  The relative astrometric measurements shall have a statistical precision of 1 mas per measurement for a star of HAB=21.6.

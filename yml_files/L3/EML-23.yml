@@ -1,0 +1,15 @@
+..short name: Normal pixel downloads
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 3
+links:
+- EML-9: 76e49fde708892078ca1eae57bd0a2c7
+normative: true
+ref: ''
+reviewed: 92d5ec376ec1016147fbe5d51cdbf041
+text: |
+  All pixels will have 2-3 samples per exposure downloaded (3-4 if there is an additional ground station, these will be the 10th (TBV) and 20th (TBV) read of each exposure.

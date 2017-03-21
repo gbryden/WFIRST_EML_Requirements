@@ -1,0 +1,14 @@
+..short name: Mars Frequency
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 2
+links: []
+normative: true
+ref: ''
+reviewed: 45c4996008c82463ee824bb001b6ec25
+text: |
+  WFIRST shall measure the frequency of Mars-mass objects to 20% (TBV).

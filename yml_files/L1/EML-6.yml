@@ -1,0 +1,14 @@
+..short name: eta_Earth
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 6
+links: []
+normative: true
+ref: ''
+reviewed: b0d1223841090d8cf9c5c97285744c0e
+text: |
+  WFIRST shall estimate eta_Earth to a precision of 20% (TBV) via extrapolation from larger and longer-period planets.

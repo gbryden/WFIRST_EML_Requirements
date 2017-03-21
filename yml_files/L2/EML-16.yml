@@ -1,0 +1,18 @@
+..short name: Duty Cycle
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 2
+links:
+- EML-1: 5c311f74275b52595a74b1d1ae1d8772
+- EML-2: 45c4996008c82463ee824bb001b6ec25
+- EML-4: ced7b46f52fc72c411650754cdcde844
+- EML-6: b0d1223841090d8cf9c5c97285744c0e
+normative: true
+ref: ''
+reviewed: ac94c9c1677a1e4badbc4dbd49dbde06
+text: |
+  The seasons will be monitored with a duty cycle of >=90%.

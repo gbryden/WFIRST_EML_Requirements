@@ -1,0 +1,16 @@
+..short name: FWHM knowledge
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 2
+links:
+- EML-3: 980e34deb71c79bb1fc66a0d2d5dcb3e
+- EML-5: a3be0702e2864784334f4f925c1ef170
+normative: true
+ref: ''
+reviewed: 14bb1aeeccac7d84595ce00379b1ad40
+text: |
+  Measure the FWHM in both axes of a HAB=21.6 star to 1% per day.

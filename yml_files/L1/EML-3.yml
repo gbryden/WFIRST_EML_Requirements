@@ -1,0 +1,14 @@
+..short name: Planet Masses
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 3
+links: []
+normative: true
+ref: ''
+reviewed: 980e34deb71c79bb1fc66a0d2d5dcb3e
+text: |
+  WFIRST shall determine the masses of, and distances to, host stars of 50% (TBV) of the detected planets with a precision of 20% (TBV).

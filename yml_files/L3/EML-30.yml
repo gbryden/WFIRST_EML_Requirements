@@ -1,0 +1,15 @@
+..short name: Data delivery time
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 3
+links:
+- EML-100: 8f6db214037273e989136db9d76c26a0
+normative: true
+ref: ''
+reviewed: 8565f707005e6f229fd85dfe2a994d81
+text: |
+  Uncalibrated data and light curves will be provided for alerts on time scale of <20 hours, preferably <14 hours.

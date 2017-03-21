@@ -1,0 +1,15 @@
+..short name: Alerts
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 2
+links:
+- EML-5: a3be0702e2864784334f4f925c1ef170
+normative: true
+ref: ''
+reviewed: 9069c69b1552ac9496914ca74f05ca24
+text: |
+  WFIRST shall provide alerts on a XX hour timescale.

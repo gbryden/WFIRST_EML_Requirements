@@ -1,0 +1,18 @@
+..short name: Observing time
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 2
+links:
+- EML-1: 5c311f74275b52595a74b1d1ae1d8772
+- EML-2: 45c4996008c82463ee824bb001b6ec25
+- EML-4: ced7b46f52fc72c411650754cdcde844
+- EML-6: b0d1223841090d8cf9c5c97285744c0e
+normative: true
+ref: ''
+reviewed: 64f6a7049349793d827c7ecd984f854b
+text: |
+  Observe for or at least 2.9x432 square degree-days, with relative photometric measurements in the primary microlensing filter that have a statistical S/N of >=100 per exposure for a HAB=21.6 star.

@@ -1,0 +1,15 @@
+..short name: Color frequency
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 3
+links:
+- EML-17: 4065b04ec87fb6b4828478a8cb3ffe1d
+normative: true
+ref: ''
+reviewed: cda505b9739d06bb7c36a728975507ba
+text: |
+  Observations of all fields will be taken in all filters at least once per week.

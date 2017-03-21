@@ -1,0 +1,14 @@
+..short name: Free-floating Planets
+.action items: ''
+.document: ''
+.rationale: ''
+.verification: ''
+active: true
+derived: false
+level: 4
+links: []
+normative: true
+ref: ''
+reviewed: ced7b46f52fc72c411650754cdcde844
+text: |
+  WFIRST shall measure the frequency of free floating planetary-mass objects in the Galaxy from Mars to 10 Jupiter masses in mass. If there is one MEarth free-floating planet per star, measure this frequency to ~20% (TBV).
